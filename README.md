@@ -1,5 +1,6 @@
-mermaid
+
 ```
+mermaid
 graph TB
     subgraph "Client Layer"
         A[Web Portal]
